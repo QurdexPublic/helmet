@@ -1,0 +1,25 @@
+.App {
+  padding: 20px;
+}
+a {
+  text-decoration: none;
+}
+menu {
+  padding: 0;
+}
+.menu {
+  display: inline-flex;
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+}
+
+.menu__link {
+  padding: 5px;
+}
+
+.contacts__item {
+  display: flex;
+  align-items: center;
+}
